@@ -24,5 +24,5 @@ Text and supporting code in Python
 ## statistic_analysis
 * Simple statistical analysis for the correlation of all the output
 
-## Visulization
+## visulization
 * Data visulization
